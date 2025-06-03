@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swetha Sasikumar</h1>
-<h3 align="center" style="color:white;">🚀 Full Stack Developer | MEAN Stack Enthusiast from India 🇮🇳</h3>
+<h3 align="center" style="color:white;">🚀 Full Stack Developer | MEAN Stack Enthusiast from India</h3>
 
 ---
 
