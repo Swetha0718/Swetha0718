@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swetha Sasikumar</h1>
 <h3 align="center" style="color:white;">🚀 Full Stack Developer | MEAN Stack Enthusiast from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swetha0718&label=Profile%20views&color=0e75b6&style=flat" alt="swetha0718" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=swetha0718&theme=algolia" alt="swetha0718" />
-  </a>
-</p>
-
 ---
 
 - 🌱 I’m currently learning **MEAN Stack**
@@ -56,6 +46,16 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swetha0718&label=Profile%20views&color=0e75b6&style=flat" alt="swetha0718" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=swetha0718&theme=algolia" alt="swetha0718" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
