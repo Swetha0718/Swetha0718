@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MEAN Stack**
 - 📫 Reach me at: **swethasruthi001@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1eNaj7flsrZoyiWIJvwiQtuUcvjKfelLA/view?usp=drive_link)
+- 📄 [View My Resume](https://drive.google.com/file/d/1eNaj7flsrZoyiWIJvwiQtuUcvjKfelLA/view?usp=sharing)
 
 ---
 
